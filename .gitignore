@@ -153,5 +153,4 @@ cython_debug/
 
 
 content/
-BSR/BSDS500/
-BSR/documentation/
+BSR/
